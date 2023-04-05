@@ -8,9 +8,9 @@ export default function Hero() {
      תתחיל את <br/>  המסע שלך 
      <span className="TODAY"> היום</span>
     </h1>
-    <p>   ותתחיל להתקרב לגוף שחלמת עליו ATHLETIC תצטרף ל</p>
+    <p> תתחיל להתקרב לגוף שחלמת עליו</p>
     <div>
-     <button className="joinNow">תצטרף עכשיו</button>
+     <button className="joinNow">צור קשר</button>
     </div>
     </div>
     </div>

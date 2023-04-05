@@ -9,7 +9,7 @@ export default function AboutUs() {
               alt="Logo"
               width={400}
               height={300}
-              priority
+              
             /></div>
         <div >
             <div dir='rtl'> 

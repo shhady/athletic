@@ -7,14 +7,11 @@ import AboutUs from '@/components/AboutUs/AboutUs'
 import WhyUs from '@/components/WhyUs/WhyUs'
 import Pricing from '@/components/Pricing/Pricing'
 import Gallery from '@/components/Gallery/Gallery'
-const inter = Inter({ subsets: ['latin'] })
+
 
 export default function Home() {
   return (
     <>
-    <header>
-      <Header />
-    </header>
     <main>
       <Hero/>
       <AboutUs/>

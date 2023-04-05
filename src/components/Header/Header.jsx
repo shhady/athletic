@@ -5,12 +5,12 @@ import "./Header.css"
 const Header = () => {
   return (
     <div className='header'>
-        <div> <Image
+        <div> <img
               src="/logo.png"
               alt="Logo"
               width={100}
               height={30}
-              priority
+              
             /></div>
         <div className='headerMiddle'>
         <div>צור קשר</div>
@@ -21,20 +21,19 @@ const Header = () => {
           <div>חוגים</div>
         </div>
         <div className='instagram'>
-          <a target="_blank" href='https://www.instagram.com/athletic.g.y.m/'><Image
+          <a target="_blank" href='https://www.instagram.com/athletic.g.y.m/'><img
               src="/Instagram_Glyph_White.png"
               alt="Logo"
               width={30}
               height={30}
-              priority
             /></a>
             <div className='hamburger'>
-            <Image
+            <img
               src="/hamburger.png"
               alt="Logo"
               width={30}
               height={30}
-              priority
+             
             />
             </div>
 
